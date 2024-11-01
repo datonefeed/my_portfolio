@@ -37,7 +37,7 @@ class _ProfileAnimationState extends State<ProfileAnimation>
       position: _animation,
       child: Image.asset(
         AppAssets.profile1,
-        width: 380,
+        width: 360,
         height: 450,
         fit: BoxFit.fill,
       ),
